@@ -10,8 +10,10 @@ import UIKit
 
 class HangmanViewController: UIViewController {
 
+    @IBOutlet weak var coffeCup: UIImageView!
     override func viewDidLoad() {
         super.viewDidLoad()
+        self.view.backgroundColor = UIColor(patternImage: UIImage(named: "bg")!)
         // Do any additional setup after loading the view, typically from a nib.
     }
 

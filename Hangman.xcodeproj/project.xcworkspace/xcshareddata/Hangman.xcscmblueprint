@@ -1,0 +1,30 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "837FF594A407EF476ED83E9C9940090AD5B13B6F",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F" : 0,
+    "711342287F37851AA2ABE6BEC799823D44760DB8" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "19B6EBAB-DE1D-4FA7-A8FE-6374CF2E8229",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "837FF594A407EF476ED83E9C9940090AD5B13B6F" : "ios-decal-hw3\/",
+    "711342287F37851AA2ABE6BEC799823D44760DB8" : ""
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Hangman",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Hangman.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/tictactoe98172\/master-drive.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "711342287F37851AA2ABE6BEC799823D44760DB8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/kyleboss\/ios-decal-hw3.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "837FF594A407EF476ED83E9C9940090AD5B13B6F"
+    }
+  ]
+}
